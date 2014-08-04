@@ -3,7 +3,7 @@ The Data Scientist's Toolbox
 
  
 
-Git Bash
+##Git Bash
 
 pwd                    print working directory
 
@@ -39,7 +39,7 @@ exit                      exit
 
  
 
-Git
+##Git
 
 git add.               adds all new files
 
@@ -65,7 +65,7 @@ git checkout master       checks out master repo
 
  
 
-Markdown language
+##Markdown language
 
 .md                     suffix used for markdown files
 
@@ -83,7 +83,7 @@ Good help resource
 
  
 
-Moving files to Github
+##Moving files to Github
 
 $ git add *.md
 
@@ -95,7 +95,7 @@ $ git push –u origin master
 
  
 
-Making new directories
+##Making new directories
 
 $ mkdir ~/test-repo
 
